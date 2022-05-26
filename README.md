@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=eligabilon&theme=dark&show_icons=true)
+![YOUR GitHub stats](https://github-readme-stats.vercel.app/api?username=eligabilon&theme=dark&show_icons=true)
 
 
 <img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
